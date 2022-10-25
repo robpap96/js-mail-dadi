@@ -6,6 +6,7 @@ Chiedi all’utente la sua email,
 controlla che sia nella lista di chi può accedere,
 stampa un messaggio appropriato sull’esito del controllo.
 -----------------------------*/
+"use strict";
 
 //creo array email
 const mails = [ "giuseppe@gmail.com", "seppo@gmail.com", "samuele@gmail.com", "roberto@gmail.com", "garibaldi@gmail.com", "fabiana@gmail.com" ];
